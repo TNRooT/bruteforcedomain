@@ -1,7 +1,6 @@
 ## BFpuredns : performs DNS brute forcing on a domain using the puredns tool
 
-![BFpuredns](https://raw.githubusercontent.com/TNRooT/bruteforcedomain/master/static/banner.PNG)
-
+![/banner.png](https://github.com/TNRooT/bruteforcedomain/blob/master/banner.png)
 ### Key Features :
 
    - The user is prompted to enter the domain name to brute force.
