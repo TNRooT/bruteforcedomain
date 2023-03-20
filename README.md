@@ -16,7 +16,7 @@
 ```
 Note : Use python 3.7+
 
-$ git clone https://github.com/devanshbatham/bruteforcedomain
+$ git clone https://github.com/TNRooT/bruteforcedomain
 $ cd BFpuredns
 $ ./BFpuredns.sh
 ```
