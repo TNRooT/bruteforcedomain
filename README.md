@@ -56,6 +56,12 @@ Enter the output file name:
 /home/bruteforcedomain/Final.txt
 
 ```
+### Note :
+
+```
+Note: Use of this script should only be for legitimate and legal purposes. It is important to ensure that you have proper authorization before performing subdomain enumeration on any domain.
+```
+
 ### My Twitter :
 
 
